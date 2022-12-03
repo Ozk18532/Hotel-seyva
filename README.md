@@ -25,32 +25,44 @@ adminitracion de un pequeño hotel.
 
 En el primer entorno pordras encontar la pantalla de inicio donde una ves dandole enter te desplegara un menuno con las siguientes opciones que para
 poder selecionarlas tendras que ayudarte de los numeros colocados en la parte izquierda de dichas opciones.
-
-*En el 1 que esta ligado a el apartado de reservaciones podras encontras un menu, que de igual forma tendras numeros para poder operarlos, en este
+```
+***En el 1 que esta ligado a el apartado de reservaciones podras encontras un menu, que de igual forma tendras numeros para poder operarlos, en este
 podras seleccionar entre tres opciones de habitaciones, una vez dentro de la que hallas escogido te pedira que llenes un pequeno cuestionario
 con la informacion del cliente para poder ejecutar la reserva, una ves completado te desplegara dicha informacion con el numero de reserva y el
 total a pagar.
 
-*En el 2 podras localizar el check in y check out 
+***En el 2 podras localizar el check in y check out 
 
 
 
-*En el 3 podras encontras un espacio para poder reservar eventos dentro del hotel, en el cual tiene un formulario de el cliente junto con el tipo de 
+***En el 3 podras encontras un espacio para poder reservar eventos dentro del hotel, en el cual tiene un formulario de el cliente junto con el tipo de 
 evento, fecha del mismo y que a su ves te imprime es informacion junto con el costo total del evento ya que este se cotiza por el numero de asistentes 
 al evento.
 
 
-*En el 4 podras encontrar el apardo del resturante
+***En el 4 podras encontrar el apardo del resturante,al abrir se encuentra el menú principal en el que se encuentran las opciones de seleccionar platillos,
+conseguir la cuenta (después de escoger los platillos), limpiar la cuenta para hacer una nueva,
+cambiar los precios de los platillos (en progreso) y salir del mismo.
+
+Submenús de platillos)
+En estos submenus se debe escoger el platillo pedido con 1 o 2, en 3 vuelve al menu principal.
+Cuando se selecciona un platillo se suma al total que se puede desplegar la cuenta desde el menú
+principal escribiendo 7.
+
+Realizar nueva cuenta)
+Solo seleccionar escribiendo el 9 desde el menú principal para realizar una cuenta nueva.
+
+En el futuro, opciones para cambiar los precios de los platillos.
 
 
 
-*En el 5 esta la salida del programa, una vez ejecutando esa opcion el programa te desplegara la informacion recopilada en el dia de las reservaciones
+***En el 5 esta la salida del programa, una vez ejecutando esa opcion el programa te desplegara la informacion recopilada en el dia de las reservaciones
 y eventos.
 
 
 Que tendras un archivo dentro de la carpeta del programa donde podras localizar la informacion recopilada por el programa con las reservas del dia y 
 los evetos.
-```
+
 ## Construido con 🛠️
 ```
 *Para construir este programa se utilizo Codeblocks, asi como las diferentes librerias que estas dentro del mismo y una libreria propia llamada seyvali.h.
