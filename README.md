@@ -1,25 +1,25 @@
 # Proyecto Hotel Seyva 
-```
+
 En este programa podras encontrar un esquema que te permitira la administracion de un hotel pequeño, para cubrir las necesidades para poder operarlo,
 como las que son reservaciones, entrega de cuartos y salidas de cuartos, asi mismo un control de un pequeño restaurante dentro de las instalaciones 
 del hotel.
 ```
 # Comenzando 🚀
-```
+
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 ```
 # Pre-requisitos 📋
-```
+
 Para poder ejecutar el programan solo lo quieres descargar desde la liga indicada en la parte de arriba o podras ejecutarlo desde el acceso directo
 dentro de la misma carpeta.
 
 En caso de descargar la carpeta debes contar con un sofware que te permita la lectura del archivo y podermos manipular.
 ```
 # Operacion del programa 🔧
-```
+
 Una ves que tengas en programa compilado y corriendo desde cualquiera de las dos formas, podras encontar un entorno sencillo para poder llevar la
 adminitracion de un pequeño hotel. 
 
@@ -44,15 +44,15 @@ al evento.
 conseguir la cuenta (después de escoger los platillos), limpiar la cuenta para hacer una nueva,
 cambiar los precios de los platillos (en progreso) y salir del mismo.
 
-Submenús de platillos)
+***Submenús de platillos)
 En estos submenus se debe escoger el platillo pedido con 1 o 2, en 3 vuelve al menu principal.
 Cuando se selecciona un platillo se suma al total que se puede desplegar la cuenta desde el menú
 principal escribiendo 7.
 
-Realizar nueva cuenta)
+***Realizar nueva cuenta)
 Solo seleccionar escribiendo el 9 desde el menú principal para realizar una cuenta nueva.
 
-En el futuro, opciones para cambiar los precios de los platillos.
+***En el futuro, opciones para cambiar los precios de los platillos.
 
 
 
@@ -64,15 +64,15 @@ Que tendras un archivo dentro de la carpeta del programa donde podras localizar 
 los evetos.
 
 ## Construido con 🛠️
-```
+
 *Para construir este programa se utilizo Codeblocks, asi como las diferentes librerias que estas dentro del mismo y una libreria propia llamada seyvali.h.
 ```
 ## Contribuyendo 🖇️
-```
+
 En caso de tener algun problema con el sistema o tiene alguna duda o comentaio puede contactarnos en el correo: Oscar.mercado@cetys.edu.mx.
 ```
 ## Versionado 📌
-```
+
 *Version del programa es beta01.
 ```
 ## Autores ✒️
@@ -81,12 +81,12 @@ En caso de tener algun problema con el sistema o tiene alguna duda o comentaio p
 * **Jose Quezada ** - *Programacion, documentacion y implementacion del mismo* 
 * **Erick Casilas ** - *Programacion, documentacion y implementacion del mismo*  
 
-## Licencia 📄
-```
-Este proyecto es de libre acceso al publico.
+# Licencia 📄
+
+***Este proyecto es de libre acceso al publico.
 ```
 ## Expresiones de Gratitud 🎁
-```
+
 * Gracias a la materia de metodos de programacion,asi como a la maestra Vanessa que nos proporciono todos sus conocimientos y bases para poder llevar
 a cabo este proyecto final de cursos.
 
