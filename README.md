@@ -1,4 +1,4 @@
-#Proyecto Hotel Seyva 
+##Proyecto Hotel Seyva 
 
 En este programa podras encontrar un esquema que te permitira la administracion de un hotel pequeño, para cubrir las necesidades para poder operarlo,
 como las que son reservaciones, entrega de cuartos y salidas de cuartos, asi mismo un control de un pequeño restaurante dentro de las instalaciones 
