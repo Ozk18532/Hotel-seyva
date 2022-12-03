@@ -1,26 +1,25 @@
-##Proyecto Hotel Seyva 
-
+# Proyecto Hotel Seyva 
+```
 En este programa podras encontrar un esquema que te permitira la administracion de un hotel pequeño, para cubrir las necesidades para poder operarlo,
 como las que son reservaciones, entrega de cuartos y salidas de cuartos, asi mismo un control de un pequeño restaurante dentro de las instalaciones 
 del hotel.
-
-#Comenzando 🚀
-
+```
+# Comenzando 🚀
+```
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 
 Mira **Deployment** para conocer como desplegar el proyecto.
-
-#Pre-requisitos 📋
-
+```
+# Pre-requisitos 📋
+```
 Para poder ejecutar el programan solo lo quieres descargar desde la liga indicada en la parte de arriba o podras ejecutarlo desde el acceso directo
 dentro de la misma carpeta.
 
 En caso de descargar la carpeta debes contar con un sofware que te permita la lectura del archivo y podermos manipular.
 ```
-
-#Operacion del programa 🔧
-
+# Operacion del programa 🔧
+```
 Una ves que tengas en programa compilado y corriendo desde cualquiera de las dos formas, podras encontar un entorno sencillo para poder llevar la
 adminitracion de un pequeño hotel. 
 
@@ -51,19 +50,19 @@ y eventos.
 
 Que tendras un archivo dentro de la carpeta del programa donde podras localizar la informacion recopilada por el programa con las reservas del dia y 
 los evetos.
-
+```
 ## Construido con 🛠️
-
+```
 *Para construir este programa se utilizo Codeblocks, asi como las diferentes librerias que estas dentro del mismo y una libreria propia llamada seyvali.h.
-
+```
 ## Contribuyendo 🖇️
-
+```
 En caso de tener algun problema con el sistema o tiene alguna duda o comentaio puede contactarnos en el correo: Oscar.mercado@cetys.edu.mx.
-
+```
 ## Versionado 📌
-
+```
 *Version del programa es beta01.
-
+```
 ## Autores ✒️
 
 * **Oscar Mercado ** - *Programacion, documentacion y implementacion del mismo*  
@@ -71,16 +70,16 @@ En caso de tener algun problema con el sistema o tiene alguna duda o comentaio p
 * **Erick Casilas ** - *Programacion, documentacion y implementacion del mismo*  
 
 ## Licencia 📄
-
+```
 Este proyecto es de libre acceso al publico.
-
+```
 ## Expresiones de Gratitud 🎁
-
+```
 * Gracias a la materia de metodos de programacion,asi como a la maestra Vanessa que nos proporciono todos sus conocimientos y bases para poder llevar
 a cabo este proyecto final de cursos.
 
 Nos vamos con mucho conocimiento adquirido y que nos ayudara en nuestros proximos semetres.
 
-
+```
 ---
 ⌨️ con ❤️ por Proyecto Hotel Seyva. 😊
