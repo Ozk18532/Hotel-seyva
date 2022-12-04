@@ -33,7 +33,7 @@ podras seleccionar entre tres opciones de habitaciones, una vez dentro de la que
 con la informacion del cliente para poder ejecutar la reserva, una ves completado te desplegara dicha informacion con el numero de reserva y el
 total a pagar.
 
-***En el 2 podras localizar el check in y check out 
+***En el 2 podras localizar el check in y check out Para utilizar este apartado tienes que escribir 1 si quieres check in( ocupas habitación), 2 check out(desocupar habitación) o 3 salir a la habitación principal, en el caso del check in tienes que elegir que habitación quieres por lo cual escribe un 1 si es sencilla, 2 si es doble, 3 si es suit o 4 para salir al menú, una vez seleccionada el tipo de habitación te desapliega la  visualización de habitaciones disponibles o ocupadas, por lo cual escribe el número de aquella habitación libre que quieres ocupar. Es el mismo procedimiento en el caso del check out solo que aquí elige aquella habitación que ya está ocupa para desocupar ósea por ejemplo O1 ocupada escribes 1 y se transforma a  A1 por lo cual indica que está desocupada
 
 
 
