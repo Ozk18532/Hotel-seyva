@@ -87,7 +87,7 @@ En caso de tener algun problema con el sistema o tiene alguna duda o comentaio p
 
 # Licencia 📄
 
-***Este proyecto es de libre acceso al publico.
+* **Este proyecto es de libre acceso al publico.
 
 ## Expresiones de Gratitud 🎁
 
