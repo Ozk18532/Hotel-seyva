@@ -53,19 +53,35 @@ evento, fecha del mismo y que a su ves te imprime es informacion junto con el co
 al evento.
 
 
-* **En el 4 podras encontrar el apardo del resturante,al abrir se encuentra el menú principal en el que se encuentran las opciones de seleccionar platillos,
-conseguir la cuenta (después de escoger los platillos), limpiar la cuenta para hacer una nueva,
-cambiar los precios de los platillos (en progreso) y salir del mismo.
+* **En el 4 podras encontrar el apardo del resturante,Al abrir se encuentra el menú principal en el que se encuentran las opciones de seleccionar 
+platillos,
 
-**Submenús de platillos)
-En estos submenus se debe escoger el platillo pedido con 1 o 2, en 3 vuelve al menu principal.
+en orden esta:
+* 1)Desayunos
+* 2)Platillos fuertes
+* 3)Cena
+* 4)Bebidas sin alcohol
+* 5)Bebidas alcoholicas
+* 6)Postres.
+
+Se puede conseguir la cuenta (después de escoger los platillos) introduciendo 7), 8) sirve para limpiar la cuenta 
+para hacer una nueva, 9) sirve para pagar la cuenta, en este apartado se volvera al menu hasta que se pague por completo
+la cuenta, se debe introducir una cantidad mayor o igual a la cuenta para pagarla, 10) el corte de caja que mostrara
+las ventas totales del día junto a la cantidad total de platillos que se vendieron de cada tipo. Finalmente 11)
+sirve para salir del sistema de restaurante.
+
+Submenús de platillos)
+En estos submenus se debe escoger el platillo pedido con los numeros de cada platillo además cuenta con una
+opción para volver al menu principal.
 Cuando se selecciona un platillo se suma al total que se puede desplegar la cuenta desde el menú
 principal escribiendo 7.
 
-**Realizar nueva cuenta)
+Realizar nueva cuenta)
 Solo seleccionar escribiendo el 9 desde el menú principal para realizar una cuenta nueva.
 
-**En el futuro, opciones para cambiar los precios de los platillos.
+Instrucciones------------
+Se debe introducir números dependiendo del menu para continuar con las operaciones, se escribe el número y se debe presionar ENTER 
+para que se realice el comando.
 
 * **En el 5 esta la salida del programa, una vez ejecutando esa opcion el programa te desplegara la informacion recopilada en el dia de las reservaciones
 y eventos.
