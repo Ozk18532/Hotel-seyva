@@ -6,6 +6,7 @@
 #██╔══██║██║░░██║░░░██║░░░██╔══╝░░██║░░░░░  ░╚═══██╗██╔══╝░░░░╚██╔╝░░░╚████╔╝░██╔══██║
 #██║░░██║╚█████╔╝░░░██║░░░███████╗███████╗  ██████╔╝███████╗░░░██║░░░░░╚██╔╝░░██║░░██║
 #╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚══════╝  ╚═════╝░╚══════╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝
+
 En este programa podrás encontrar un esquema que te permitirá la administración de un hotel pequeño, para cubrir las necesidades para poder operarlo,
 como las que son reservaciones, entrega de cuartos y salidas de cuartos, asi mismo un control de un pequeño restaurante dentro de las instalaciones 
 del hotel.
