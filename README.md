@@ -14,7 +14,9 @@ del hotel.
 # Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+Lo podras descargar desde esta liga donde se encuentran los archivos.
 
+https://drive.google.com/drive/folders/1pGF28UVuHmeOStI_Cm7WAqQBjXkVTLjT
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
