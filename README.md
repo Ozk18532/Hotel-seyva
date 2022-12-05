@@ -6,8 +6,6 @@
 #██╔══██║██║░░██║░░░██║░░░██╔══╝░░██║░░░░░  ░╚═══██╗██╔══╝░░░░╚██╔╝░░░╚████╔╝░██╔══██║
 #██║░░██║╚█████╔╝░░░██║░░░███████╗███████╗  ██████╔╝███████╗░░░██║░░░░░╚██╔╝░░██║░░██║
 #╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚══════╝  ╚═════╝░╚══════╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝
-
-
 En este programa podrás encontrar un esquema que te permitirá la administración de un hotel pequeño, para cubrir las necesidades para poder operarlo,
 como las que son reservaciones, entrega de cuartos y salidas de cuartos, asi mismo un control de un pequeño restaurante dentro de las instalaciones 
 del hotel.
@@ -26,27 +24,27 @@ https://drive.google.com/drive/folders/1pGF28UVuHmeOStI_Cm7WAqQBjXkVTLjT
 Para poder ejecutar el programan solo tienes que descargar desde la liga indicada en la parte de arriba o podras ejecutarlo desde el acceso directo
 dentro de la misma carpeta.
 
-En caso de descargar la carpeta debes contar con un sofware que te permita la lectura del archivo y podermos manipular.
+En caso de descargar la carpeta debes contar con un software que te permita la lectura del archivo y poderlo manipular.
 
-# Operacion del programa 🔧
+# Operación del programa 🔧
 
-Una ves que tengas en programa compilado y corriendo desde cualquiera de las dos formas, podras encontar un entorno sencillo para poder llevar la
-adminitracion de un pequeño hotel. 
+Una vez que tengas el programa compilado y corriendo desde cualquiera de las dos formas, podrás encontar un entorno sencillo para poder llevar la
+administración de un pequeño hotel. 
 
-En el primer entorno pordras encontar la pantalla de inicio donde una ves dandole enter te desplegara un menuno con las siguientes opciones que para
+En el primer entorno podrás encontrar la pantalla de inicio donde una vez dandole Enter te desplegara un menú con las siguientes opciones que para
 poder selecionarlas tendras que ayudarte de los numeros colocados en la parte izquierda de dichas opciones.
 
-***En el 1 que esta ligado a el apartado de reservaciones podras encontras un menú, que de igual forma tendras numeros para poder operarlos, en este
-podras seleccionar entre tres opciones de habitaciones, una vez dentro de la que hayas escogido te pedira que llenes un pequeño cuestionario
-con la información del cliente para poder ejecutar la reserva, una ves completado te desplegara dicha informacion con el numero de reserva y el
+***En el 1 que esta ligado al apartado de reservaciones podrás encontras un menú, que de igual forma tendrás numeros para poder operarlos, en este
+podrás seleccionar entre tres opciones de habitaciones, una vez dentro de la que hayas escogido te pedirá que llenes un pequeño cuestionario
+con la información del cliente para poder ejecutar la reserva, una ves completado te desplegará dicha información con el número de reserva y el
 total a pagar.
 
-***En el 2 podras localizar el check in y check out Para utilizar este apartado tienes que escribir 1 si quieres check in (ocupar habitación), 
+***En el 2 podrás localizar el check in y check out Para utilizar este apartado tienes que escribir 1 si quieres check in (ocupar habitación), 
 2 check out (desocupar habitación) o 3 salir a la habitación principal, en el caso del check in tienes que elegir que habitación quieres por lo 
 cual escribe un 1 si es sencilla, 2 si es doble, 3 si es suit o 4 para salir al menú, una vez seleccionada el tipo de habitación te desapliega 
 la  visualización de habitaciones disponibles o ocupadas, por lo cual escribe el número de aquella habitación libre que quieres ocupar. Es el 
 mismo procedimiento en el caso del check out solo que aquí elige aquella habitación que ya está ocupa para desocupar ósea por ejemplo O1 ocupada 
-escribes 1 y se transforma a  A1 por lo cual indica que está desocupada
+escribes 1 y se transforma a  A1 por lo cual indica que está desocupada.
 
 
 ***En el 3 podras encontrar un espacio para poder reservar eventos dentro del hotel, en el cual tiene un formulario de el cliente junto con el tipo de 
@@ -90,7 +88,7 @@ para que se realice el comando.
 y eventos.
 
 
-Que tendras un archivo dentro de la carpeta del programa donde podras localizar la informacion recopilada por el programa con las reservas del dia y 
+Que tendrás un archivo dentro de la carpeta del programa donde podras localizar la informacion recopilada por el programa con las reservas del dia y 
 los eventos.
 
 ## Construido con 🛠️
@@ -99,7 +97,7 @@ los eventos.
 
 # Contribuyendo 🖇️
 
-En caso de tener algun problema con el sistema o tiene alguna duda o comentaio puede contactarnos en el correo: Oscar.mercado@cetys.edu.mx.
+En caso de tener algún problema con el sistema o tiene alguna duda o comentalo, puede contactarnos en el correo: Oscar.mercado@cetys.edu.mx.
 
 ## Versionado 📌
 
@@ -125,5 +123,3 @@ Nos vamos con mucho conocimiento adquirido y que nos ayudara en nuestros proximo
 
 ---
 ⌨️ con ❤️ por Proyecto Hotel Seyva. 😊
-
-
